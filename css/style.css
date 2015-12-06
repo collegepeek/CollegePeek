@@ -382,9 +382,9 @@ border: none;
 	text-align: center;
 }
 .Fresh{
-	margin-bottom: 145px;
+	margin-bottom: 0px;
 	color: #404040;
-	margin-top: 250px;
+	margin-top: 0px;
 	text-align: center;
 	
 }
@@ -533,12 +533,24 @@ border: none;
 	list-style:none;
 	font-family: "raleway-regular";
 	font-size:15px;
+
 }
 .team ul li a{
 	color:#2f2f2f;
 }
 .team ul li a:hover{
 	color:#ec453a;
+}
+table.nametable{
+	padding:0 20px;
+	font-family: 'raleway-semibold', arial;
+	font-size:24px;
+	color:#404040;
+	text-align:center;
+	font-weight: 300;
+	float:left;
+
+
 }
 /**/
 /**/
@@ -755,8 +767,8 @@ border: none;
 	//bottom: 489px;
 }
 .Ama{
-	margin-top: 201px;
-	margin-bottom: 133px;
+	margin-top: 100px;
+	margin-bottom: 100px;
 /*	margin-top: 241px;
 	margin-bottom: 94px;*/
 }
