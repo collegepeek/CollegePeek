@@ -411,6 +411,42 @@ border: none;
 	font-family: "raleway-regular";
 	text-align: center;
 }
+.fa-bubbles {
+	margin: 2px;
+	background: url(../images/picAbout/bubbles.png) no-repeat;
+	padding: 64px;
+	font-size: 24px;
+	color: #4ab1c6;
+	font-family: "raleway-regular";
+	text-align: center;
+}
+.fa-heart2 {
+	margin: 2px;
+	background: url(../images/picAbout/heart.png) no-repeat;
+	padding: 64px;
+	font-size: 24px;
+	color: #4ab1c6;
+	font-family: "raleway-regular";
+	text-align: center;
+}
+.fa-target {
+	margin: 2px;
+	background: url(../images/picAbout/target.png) no-repeat;
+	padding: 64px;
+	font-size: 24px;
+	color: #4ab1c6;
+	font-family: "raleway-regular";
+	text-align: center;
+}
+.fa-football {
+	margin: 2px;
+	background: url(../images/picAbout/football.png) no-repeat;
+	padding: 64px;
+	font-size: 24px;
+	color: #4ab1c6;
+	font-family: "raleway-regular";
+	text-align: center;
+}
 .Des  h4{
 	//margin-left: -19px;
 }
@@ -632,7 +668,7 @@ border: none;
 	padding-bottom: 15px;
 	float: right;
 	padding: 34px;
-	padding-top: 51px;
+	padding-top: 100px;
 	padding-right: 40px;
 	padding-bottom: 10px;
 }
@@ -643,7 +679,7 @@ border: none;
 .pic2Ab{
 	float: left;
 	padding: 40px;
-	padding-top: 51px;
+	padding-top: 100px;
 	padding-right: 37px;
 	padding-bottom: 39px;
 }
